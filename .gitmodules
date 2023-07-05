@@ -1,0 +1,3 @@
+[submodule "dingzhi-public"]
+	path = dingzhi-public
+	url = http://gitlab.ijovo.com/project-team/dingzhi-public.git
